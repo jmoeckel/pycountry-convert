@@ -224,6 +224,7 @@ COUNTRY_ALPHA2_TO_CONTINENT = {
     'TH': 'Asia',
     'TJ': 'Asia',
     'TK': 'Oceania',
+    'TL': 'Oceania',
     'TM': 'Asia',
     'TN': 'Africa',
     'TO': 'Oceania',
